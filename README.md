@@ -52,12 +52,6 @@ Individual security holdings are not in APRA's public disclosures and are not he
 
 All data fetched by this library is published by APRA under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Attribution: Australian Prudential Regulation Authority (APRA).
 
-## Relevant to
-
-- ART (Australian Retirement Trust) — largest RSE by assets post-merger
-- QIC — Queensland government-owned fund manager with super mandates
-- Any institution doing peer-positioning or systemic-risk analysis across the Australian super system
-
 ## Status
 
 Actively developed. Fund merger map is manually maintained — PRs welcome for recent mergers.
